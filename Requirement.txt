@@ -1,0 +1,6 @@
+This is an requirements gathered for Ecom website:
+1.Login page
+2.Home
+3.Cart
+4.Checkout
+
